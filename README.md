@@ -1,6 +1,8 @@
 <p align="center"><img width="100%" src="img/logo.svg" alt="Silence logo"></p>
 <p align="center"><a href="https://travis-ci.com/IISSI-US/Silence"><img src="https://travis-ci.com/IISSI-US/Silence.svg?branch=master"></a> <a href="https://pypi.org/project/Silence/"><img src="https://pypip.in/v/silence/badge.png"></a></p>
 
+
+
 <hr>
 
 # Introduction
